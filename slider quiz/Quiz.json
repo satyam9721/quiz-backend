@@ -1,0 +1,358 @@
+[
+    {
+        "index": 1,
+        "question": "How would you describe your current target audience?",
+        "answers": {
+            "options": ["Well-defined and segmented", "Somewhat defined", "Not defined", "Can't say"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 2,
+        "question": "How often do you analyze ad campaign performance data?",
+        "answers": {
+            "options": ["Daily", "Weekly", "Monthly or less"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 3,
+        "question": "Are your ad campaigns aligned with your overall marketing goals?",
+        "answers": {
+            "options": ["Completely", "Partially", "Not at all"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 4,
+        "question": "Do you have a retargeting strategy for abandoned cart users?",
+        "answers": {
+            "options": ["Yes", "No", "Can't say"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 5,
+        "question": "How would you rate the effectiveness of your ad copy and visuals?",
+        "answers": {
+            "options": ["Highly effective", "Moderately effective", "Ineffective"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 6,
+        "question": "Are your ad campaigns optimized for mobile users?",
+        "answers": {
+            "options": ["Yes", "No", "Can't say"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 7,
+        "question": "Do you use A/B testing to optimize ad creatives and copy based on different audience segments?",
+        "answers": {
+            "options": ["Yes", "No"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 8,
+        "question": "How often do you review and adjust your ad targeting criteria?",
+        "answers": {
+            "options": ["Weekly", "Monthly", "Quarterly", "Annually", "Rarely"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 9,
+        "question": "How do you determine your ad budget allocation across different platforms?",
+        "answers": {
+            "options": ["Data-driven analysis", "Intuition and past experience", "Equal distribution", "Other (please specify)"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 10,
+        "question": "Do you track and analyze the performance of your competitors' ads?",
+        "answers": {
+            "options": ["Yes", "No"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 11,
+        "question": "What is your strategy for ad remarketing or retargeting to re-engage potential customers?",
+        "answers": {
+            "options": ["Not using", "Basic retargeting", "Advanced retargeting", "Not really sure"],
+            "answertype": 1
+        }
+    }, {
+        "index": 12,
+        "question": "Which platforms do you primarily advertise on?        ",
+        "answers": {
+            "options": ["Google Ads", "Facebook Ads", "Instagram Ads", "Native publishers (Taboola, Times Network,etc)","Other (Please specify)"],
+            "answertype": 5
+        }
+    }, {
+        "index": 13,
+        "question": "Can you articulate your unique selling proposition (USP)?",
+        "answers": {
+            "options": ["Yes, clearly", "Somewhat", "Not at all", "Not really sure"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 14,
+        "question": "Do you have consistent messaging across all marketing channels?",
+        "answers": {
+            "options": ["Yes, always", "Occasionally", "Rarely", "Not really sure"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 15,
+        "question": "Are you effectively addressing customer pain points in your messaging?",
+        "answers": {
+            "options": ["Yes", "Somewhat", "No"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 16,
+        "question": "Are you conducting competitor analysis for messaging and positioning?",
+        "answers": {
+            "options": ["Yes, regularly", "Occasionally", "Not at all"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 17,
+        "question": "Is your messaging personalized for different customer segments or persona?",
+        "answers": {
+            "options": ["Yes, extensively", "Somewhat", "Not at all"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 18,
+        "question": "Are you satisfied with your brand's online reputation and sentiment?",
+        "answers": {
+            "options": ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 19,
+        "question": "How would you describe your brand's current market positioning compared to competitors?",
+        "answers": {
+            "options": ["Market leader", "Competitive", "Follower", "Niche player", "Not sure"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 20,
+        "question": "Our marketing message effectively communicates our unique selling proposition (USP).",
+        "answers": {
+        "min": 1,
+        "max": 5,
+        "step": 1
+        }
+    },
+    {
+        "index": 21,
+        "question": "We use storytelling in our marketing to create emotional connections.        ",
+        "answers": {
+            "min": 1,
+            "max": 5,
+            "step": 0.5,
+            "answertype": 1
+            }
+    },
+    {
+        "index": 22,
+        "question": "We use social proof (reviews, testimonials) to build trust.        ",
+        "answers": {
+            "min": 1,
+            "max": 5,
+            "step": 0.5,
+            "answertype": 1
+            }
+    },{
+        "index": 23,
+        "question": "Do you have a contingency budget for unforeseen marketing opportunities or crises?        ",
+        "answers": {
+            "options": ["Yes", "No"],
+            "answertype": 1
+        }
+    },{
+        "index": 24,
+        "question": "What is your monthly ad budget for online channels? (lever/slider input)        ",
+        "answers": {
+            "min": 50000,
+            "max": 20000000,
+            "step": 25000,
+            "answertype": 1
+            }
+    },{
+        "index": 25,
+        "question": "Do you handle marketing activities in-house or through an agency?        ",
+        "answers": {
+            "options": ["In-house", "Agency","Both"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 26,
+        "question": "Our budget allows for experimentation and testing.        ",
+        "answers": {
+            "min": 1,
+            "max": 5,
+            "step": 0.5,
+            "answertype": 1
+            }
+    },
+    {
+        "index": 27,
+        "question": "Our agency partnerships meet our expectations and goals.        ",
+        "answers": {
+            "min": 1,
+            "max": 5,
+            "step": 0.5,
+            "answertype": 1
+            }
+    },
+    {
+        "index": 28,
+        "question": "What is your website's overall conversion rate?",
+        "answers": {
+            "options": ["High (above industry average)", "Average (industry standard)","Low (below industry average)","Don't know"],
+            "answertype": 1
+        }
+    },{
+        "index": 29,
+        "question": "Are you actively monitoring website performance (e.g., page load times)?",
+        "answers": {
+            "options": ["Yes, regularly", "Occasionally", "Not at all"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 30,
+        "question": "How often do you update product descriptions and images to improve conversions?",
+        "answers": {
+            "options": ["Quarterly or more often", "Semi-annually", "Annually or less often"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 31,
+        "question": "Are you leveraging customer reviews and ratings effectively to boost sales?",
+        "answers": {
+            "options": ["Yes, extensively", "Occasionally", "Not at all"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 32,
+        "question": "Is your checkout process optimized for mobile users?",
+        "answers": {
+            "options": ["Yes", "No"],
+            "answertype": 1
+        }
+    },
+    {
+        "index": 33,
+        "question": "Do you use data analytics to identify and address conversion bottlenecks?",
+        "answers": {
+            "options": ["Yes, regularly", "Occasionally", "Not at all"],
+            "answertype": 1
+        }
+    },{
+        "index": 34,
+        "question": "What is your current website's conversion rate (percentage)?        ",
+        "answers": {
+            "min": "0.1",
+            "max": "9",
+            "step": "0.1",
+            "answertype": 1
+            }
+    },{
+        "index": 35,
+        "question": "Are you actively tracking and analyzing cart abandonment rates on your e-commerce site?        ",
+        "answers": {
+            "options": ["Yes", "No"],
+            "answertype": 1
+        }
+    },{
+        "index": 36,
+        "question": "You are satisfied with your online sales growth in the last 6 months",
+        "answers": {
+            "min": "1",
+            "max": "5",
+            "step": "0.5",
+            "answertype": 1
+            }
+    },{
+        "index": 37,
+        "question": "Do you have cross-selling and upselling strategies in place?        ",
+        "answers": {
+            "options": ["Yes", "No"],
+            "answertype": 1
+        }
+    },{
+        "index": 38,
+        "question": "Do you employ tactics to increase AOV (e.g., bundling, tiered pricing)?        ",
+        "answers": {
+            "options": ["Yes", "No"],
+            "answertype": 1
+        }
+    },{
+        "index": 39,
+        "question": "Do you have strategies to increase customer lifetime value (LTV)?        ",
+        "answers": {
+            "options": ["Yes", "No"],
+            "answertype": 1
+        }
+    },{
+        "index": 40,
+        "question": "We use analytics to track user behavior and identify drop-off points.        ",
+        "answers": {
+            "min": "1",
+            "max": "5",
+            "step": "0.5",
+            "answertype": 1
+            }
+    },{
+        "index": 41,
+        "question": "Our product pages have clear and compelling product descriptions.        ",
+        "answers": {
+            "min": "1",
+            "max": "5",
+            "step": "0.5",
+            "answertype": 1
+            }
+    },{
+        "index": 42,
+        "question": "We offer multiple payment options to enhance the shopping experience.        ",
+        "answers": {
+            "min": "1",
+            "max": "5",
+            "step": "0.5",
+            "answertype": 1
+            }
+    },{
+        "index": 43,
+        "question": "We have a post-purchase follow-up strategy to encourage repeat sales.        ",
+        "answers": {
+            "min": "1",
+            "max": "5",
+            "step": "0.5",
+            "answertype": 1
+            }
+    }
+
+]
+
+
+
+
